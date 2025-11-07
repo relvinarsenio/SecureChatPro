@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="Copyright (c) &amp;#36;originalComment.match(&quot;Copyright \(c\) (\d+)&quot;, 1, &quot;-&quot;, &quot;&amp;#36;today.year&quot;)&amp;#36;today.year Alfie Ardinata&#10;&#10;The contents of this file are subject to the Common Development&#10;and Distribution License (&quot;CDDL&quot;) Version 1.1 (the &quot;License&quot;).&#10;You may not use this file except in compliance with the License.&#10;&#10;You can obtain a copy of the License at&#10;http://www.opensource.org/licenses/CDDL-1.1&#10;&#10;Software distributed under the License is distributed on an &quot;AS IS&quot;&#10;basis, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express&#10;or implied. See the License for the specific language governing&#10;permissions and limitations under the License." />
+    <option name="myName" value="CDDL-1.1" />
+  </copyright>
+</component>

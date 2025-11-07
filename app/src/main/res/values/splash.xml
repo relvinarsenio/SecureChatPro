@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Splash styling aligned with app theme -->
+    <style name="Theme.SecureChatPro.Splash" parent="Theme.SplashScreen">
+        <!-- Background color similar to chat background -->
+        <item name="windowSplashScreenBackground">@color/wa_splash_bg</item>
+        <!-- Use direct launcher mipmap for maximum device compatibility (esp. Android 11/MIUI) -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_icon_inset</item>
+        <item name="windowSplashScreenIconBackgroundColor">@android:color/transparent</item>
+        <!-- Keep on-screen briefly while app initializes -->
+        <item name="postSplashScreenTheme">@style/Theme.SecureChatPro</item>
+    </style>
+
+    <color name="wa_splash_bg">#1BD641</color>
+</resources>

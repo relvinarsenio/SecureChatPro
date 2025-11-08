@@ -12,4 +12,6 @@
 .cxx
 
 # Folder custom lo
-/upload
+/uploads/
+/app/release
+/app/debug

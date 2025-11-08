@@ -210,7 +210,6 @@ private fun MessageBubble(msg: ChatMessage) {
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-@Suppress("UNUSED_VALUE", "ASSIGNED_BUT_NEVER_ACCESSED_VARIABLE")
 fun ChatScreen() {
     var showAbout by remember { mutableStateOf(false) }
     val vm: ChatViewModel = viewModel()
